@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Pixiu_XD
 
-<!--
-**Pixiu3/pixiu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student majoring in Mechanical and Electronic Engineering, with a strong interest in **Linux** and cloud computing.
 
-Here are some ideas to get you started:
+💡 I’m currently self-studying:
+- Linux system administration
+- Shell & Python scripting
+- Cloud platforms (Aliyun, Tencent Cloud)
+- Docker and DevOps basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+🌱 I’m currently building:
+- A personal Linux learning guide
+- A server health check script
+- My first Dockerized blog site
+
+📌 Portfolio Projects:
+- [Server Health Check Script](https://github.com/pixiu3/server-check-script)
+- [Linux Commands Cheatsheet](https://github.com/pixiu3/linux-cheatsheet)
+
+📚 Long-term goal: Become a DevOps engineer and earn ¥1,000,000 before age 30 💪
+
